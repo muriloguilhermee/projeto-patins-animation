@@ -44,6 +44,7 @@ section.hero {
             gap: 0.75rem;
             border-radius: 5rem;
             transition: scale 350ms;
+            /* transform: scale(350ms); */
 
             &.buy{
                 padding: 1.5rem 3rem;
