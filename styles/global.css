@@ -24,10 +24,6 @@
 html, .button {
     font: 500 1rem/1.5 "Montserrat", var(--ff-base);
 }
-
-html {
-    zoom: .7;
-}
 h1, h2 {
     font-family: 'Syne', sans-serif;
 }
